@@ -7,7 +7,7 @@
 #endif
 
 // DeviceName, DeviceManufacturer, BatteryLevel
-BleKeyboard bleKeyboard("Mando Sadrollas", "Sadrollas Corp, 100");
+BleKeyboard bleKeyboard("Mando xxxx", "XXXXX Corp, 100");
 
 int zoom_out = 4; //Pin GPIO al que se conecta el botón
 int zoom_in = 0;
